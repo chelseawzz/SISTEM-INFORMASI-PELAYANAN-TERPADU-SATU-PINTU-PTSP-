@@ -37,15 +37,15 @@ dikembangkan sebagai modul yang saling terhubung dalam satu sistem terpadu.
 9. Procurement Management Plan  
 10. Stakeholder Management Plan  
 
-Seluruh dokumen utama tersedia pada folder [docs](./docs).
+Seluruh dokumen utama tersedia pada folder [docs](./docs.).
 
 
 ---
 
 ## Dokumen Pendukung
 - Software Requirement Specification (SRS) Sistem Informasi PTSP dapat diakses
-  melaui folder berikut ini [SRS](./SRS).
-- Slide Presentasi dapat diakses pada folder berikut [presentation](./presentation).
+  melaui folder berikut ini [SRS](./SRS.).
+- Slide Presentasi dapat diakses pada folder berikut [presentation](./presentation.).
 
 ---
 
