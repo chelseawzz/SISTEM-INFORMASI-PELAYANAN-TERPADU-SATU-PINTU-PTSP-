@@ -45,16 +45,18 @@ Seluruh dokumen utama tersedia pada folder [docs](./docs).
 ---
 
 ## Dokumen Pendukung
-- Software Requirement Specification (SRS) Sistem Informasi PTSP
+- Software Requirement Specification (SRS) Sistem Informasi PTSP dapat diakses
+  melaui folder berikut ini [SRS](./SRS).
+- Slide Presentasi dapat diakses pada folder berikut [presentation](./presentation).
 
 ---
 
 ## Desain UI/UX
 Dokumentasi desain antarmuka pengguna dibuat menggunakan **Figma**
-dan dapat diakses melalui folder `design/`.
+dan dapat diakses melalui folder  [design](./design).
 
-Link Figma:  
-https://www.figma.com/file/ISI_LINK_FIGMA
+Atau dapat diakses langsung melalui Link Figma:  
+[https://www.figma.com/file/ISI_LINK_FIGMA](https://www.figma.com/make/JOQyY2o3IQ0m8RfH6MOVMf/Sistem-Integrasi-Perizinan?t=VJnwSWsN9uBJM3MY-20&fullscreen=1)
 
 ---
 
@@ -68,7 +70,8 @@ https://www.figma.com/file/ISI_LINK_FIGMA
 ## Struktur Repository
 - `docs/` : Dokumen Project Management Plan dan SRS  
 - `design/` : Dokumentasi desain UI/UX dan link Figma  
-- `presentation/` : File presentasi proyek  
+- `presentation/` : File presentasi proyek
+- `SRS/` : _Software Requirement Specification_ (SRS)
 
 ---
 
@@ -81,7 +84,7 @@ https://www.figma.com/file/ISI_LINK_FIGMA
 <img width="723" height="161" alt="Akses Administrator PTSP" src="https://github.com/user-attachments/assets/252357e5-792a-46ef-9bb6-6015a6e35f28" />
 
 ---
-
+## KELAS DS-03-01
 ## Anggota Kelompok
 - Aura Aulia A.H.P (1206230003)
 - Mochammad Fery A (1206230044)
@@ -92,4 +95,4 @@ https://www.figma.com/file/ISI_LINK_FIGMA
 
 ## Catatan
 Repository ini digunakan sebagai media dokumentasi dan version control
-untuk kebutuhan akademik mata kuliah **Manajemen Proyek / Sistem Informasi**.
+untuk kebutuhan akademik mata kuliah **Manajemen Proyek**.
