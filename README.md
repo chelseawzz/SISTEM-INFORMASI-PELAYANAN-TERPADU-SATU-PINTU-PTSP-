@@ -56,7 +56,7 @@ Dokumentasi desain antarmuka pengguna dibuat menggunakan **Figma**
 dan dapat diakses melalui folder  [design](./design).
 
 Atau dapat diakses langsung melalui Link Figma:  
-[https://www.figma.com/file/ISI_LINK_FIGMA](https://www.figma.com/make/JOQyY2o3IQ0m8RfH6MOVMf/Sistem-Integrasi-Perizinan?t=VJnwSWsN9uBJM3MY-20&fullscreen=1)
+[https://www.figma.com/make/JOQyY2o3IQ0m8RfH6MOVMf/Sistem-Integrasi-Perizinan?t=VJnwSWsN9uBJM3MY-20&fullscreen=1]
 
 ---
 
