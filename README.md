@@ -39,7 +39,8 @@ dikembangkan sebagai modul yang saling terhubung dalam satu sistem terpadu.
 11. Change Management Plan  
 12. Project Closing Document  
 
-Seluruh dokumen utama tersedia pada folder `docs/`.
+Seluruh dokumen utama tersedia pada folder [docs](./docs).
+
 
 ---
 
