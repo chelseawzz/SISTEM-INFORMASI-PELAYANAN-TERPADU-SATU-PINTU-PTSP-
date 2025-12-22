@@ -83,7 +83,6 @@ https://www.figma.com/file/ISI_LINK_FIGMA
 
 ## Anggota Kelompok
 - Aura Aulia A.H.P (1206230003)
-- I Made Wisnu Adi (1206230033)
 - Mochammad Fery A (1206230044)
 - Jonathan Mangiring P (1206230051)
 - Novita Chelsea Lodar (1206230052)
