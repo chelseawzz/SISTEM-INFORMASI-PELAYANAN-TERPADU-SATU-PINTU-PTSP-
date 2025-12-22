@@ -36,8 +36,6 @@ dikembangkan sebagai modul yang saling terhubung dalam satu sistem terpadu.
 8. Risk Management Plan  
 9. Procurement Management Plan  
 10. Stakeholder Management Plan  
-11. Change Management Plan  
-12. Project Closing Document  
 
 Seluruh dokumen utama tersedia pada folder [docs](./docs).
 
