@@ -6,7 +6,7 @@ Repository ini berisi **dokumen Project Management Plan** beserta
 di lingkungan Kementerian Lingkungan Hidup dan Kehutanan (KLHK).
 
 Proyek ini difokuskan pada tahap **analisis kebutuhan, perencanaan proyek,
-dan desain UI/UX**, tanpa implementasi aplikasi atau pengembangan kode sumber.
+dan desain User Interface Aplikasi**
 
 Aplikasi PTSP KLHK dirancang untuk mendukung proses perizinan lingkungan hidup
 dan kehutanan secara digital, transparan, dan terintegrasi.
