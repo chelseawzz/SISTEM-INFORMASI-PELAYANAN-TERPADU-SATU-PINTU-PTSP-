@@ -59,10 +59,10 @@ Semua dokumen berikut tersedia di folder [`docs/`](./docs.):
 
 ## 📝 Dokumen Pendukung
 
-- **SRS (Software Requirement Specification)** → [`SRS/`](./SRS)  
+- **SRS (Software Requirement Specification)** → [`SRS/`](./SRS.)  
   - Modul user, pengajuan izin, verifikasi, PNBP, integrasi OSS, dashboard, audit trail
-- **Slide Presentasi** → [`presentation/`](./presentation)  
-  - Kickoff & Final Report (format Canva/PowerPoint)
+- **Slide Presentasi** → [`presentation/`](./presentation.)  
+  - Kickoff & Final Report (format Canva)
 
 ---
 
