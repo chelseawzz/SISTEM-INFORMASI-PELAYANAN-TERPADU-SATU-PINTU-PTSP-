@@ -40,7 +40,7 @@ terintegrasi ke **OSS nasional** dan **Pilar B3 KLHK**.
 
 ## 📚 Dokumen Utama (Project Management Plan)
 
-Semua dokumen berikut tersedia di folder [`docs/`](./docs):
+Semua dokumen berikut tersedia di folder [`docs/`](./docs.):
 
 1. **Project Charter**  
 2. **Scope Management Plan**  
@@ -70,7 +70,8 @@ Semua dokumen berikut tersedia di folder [`docs/`](./docs):
 
 Desain antarmuka dibuat menggunakan **Figma**.  
 📄 **Link Figma**:  
-👉 [https://www.figma.com/make/JOQyY2o3IQ0m8RfH6MOVMf/Sistem-Integrasi-Perizinan](https://www.figma.com/make/JOQyY2o3IQ0m8RfH6MOVMf/Sistem-Integrasi-Perizinan)
+👉 [https://www.figma.com/make/JOQyY2o3IQ0m8RfH6MOVMf/Sistem-Integrasi-Perizinan?t=VJnwSWsN9uBJM3MY-20&fullscreen=1](https://www.figma.com/make/JOQyY2o3IQ0m8RfH6MOVMf/Sistem-Integrasi-Perizinan?t=VJnwSWsN9uBJM3MY-20&fullscreen=1)
+
 
 File desain lokal tersedia di [`design/`](./design).
 
