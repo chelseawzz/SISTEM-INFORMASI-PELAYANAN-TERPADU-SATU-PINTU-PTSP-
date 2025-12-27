@@ -69,8 +69,10 @@ Semua dokumen berikut tersedia di folder [`docs/`](./docs.):
 ## 🎨 Desain UI/UX
 
 Desain antarmuka dibuat menggunakan **Figma**.  
-📄 **Link Figma**:  <a href="https://www.figma.com/make/JOQyY2o3IQ0m8RfH6MOVMf/Sistem-Integrasi-Perizinan?t=VJnwSWsN9uBJM3MY-20&fullscreen=1">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="30"/>
+📄 **Link Figma**:  
+
+<a href="https://www.figma.com/make/JOQyY2o3IQ0m8RfH6MOVMf/Sistem-Integrasi-Perizinan?t=VJnwSWsN9uBJM3MY-20&fullscreen=1">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="20"/>
 </a>
 
 
