@@ -70,12 +70,7 @@ Semua dokumen berikut tersedia di folder [`docs/`](./docs.):
 
 Desain antarmuka dibuat menggunakan **Figma**.  
 📄 **Link Figma**:  
-<iframe 
-  src="(https://www.figma.com/make/JOQyY2o3IQ0m8RfH6MOVMf/Sistem-Integrasi-Perizinan?t=VJnwSWsN9uBJM3MY-20&fullscreen=1)"
-  width="100%"
-  height="150"
-  style="border: none;">
-</iframe>
+[![Figma](https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg)](https://www.figma.com/make/JOQyY2o3IQ0m8RfH6MOVMf/Sistem-Integrasi-Perizinan?t=VJnwSWsN9uBJM3MY-20&fullscreen=1))
 
 File desain lokal tersedia di [`design/`](./design).
 
