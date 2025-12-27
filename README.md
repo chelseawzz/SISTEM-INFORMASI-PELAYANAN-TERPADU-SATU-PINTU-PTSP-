@@ -69,9 +69,8 @@ Semua dokumen berikut tersedia di folder [`docs/`](./docs.):
 ## 🎨 Desain UI/UX
 
 Desain antarmuka dibuat menggunakan **Figma**.  
-📄 **Link Figma**:  
-<a href="https://www.figma.com/make/JOQyY2o3IQ0m8RfH6MOVMf/Sistem-Integrasi-Perizinan?t=VJnwSWsN9uBJM3MY-20&fullscreen=1">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="36"/>
+📄 **Link Figma**:  <a href="https://www.figma.com/make/JOQyY2o3IQ0m8RfH6MOVMf/Sistem-Integrasi-Perizinan?t=VJnwSWsN9uBJM3MY-20&fullscreen=1">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="30"/>
 </a>
 
 
@@ -79,10 +78,10 @@ File desain lokal tersedia di [`design/`](./design).
 
 ---
 
-## 🎨 Demo Proyek
+## 📽️Demo Proyek
 
 <a href="https://youtu.be/JS9f00hmzTw?si=JwC6MtJ_mmrialpL">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" width="60"/>
 </a>
 
 ---
