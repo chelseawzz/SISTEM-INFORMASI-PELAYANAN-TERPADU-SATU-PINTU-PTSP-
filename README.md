@@ -70,8 +70,12 @@ Semua dokumen berikut tersedia di folder [`docs/`](./docs.):
 
 Desain antarmuka dibuat menggunakan **Figma**.  
 📄 **Link Figma**:  
-👉 [https://www.figma.com/make/JOQyY2o3IQ0m8RfH6MOVMf/Sistem-Integrasi-Perizinan?t=VJnwSWsN9uBJM3MY-20&fullscreen=1](https://www.figma.com/make/JOQyY2o3IQ0m8RfH6MOVMf/Sistem-Integrasi-Perizinan?t=VJnwSWsN9uBJM3MY-20&fullscreen=1)
-
+<iframe 
+  src="(https://www.figma.com/make/JOQyY2o3IQ0m8RfH6MOVMf/Sistem-Integrasi-Perizinan?t=VJnwSWsN9uBJM3MY-20&fullscreen=1)"
+  width="100%"
+  height="150"
+  style="border: none;">
+</iframe>
 
 File desain lokal tersedia di [`design/`](./design).
 
@@ -82,10 +86,9 @@ File desain lokal tersedia di [`design/`](./design).
 | Kategori | Tools |
 |--------|-------|
 | **Desain** | Figma |
-| **Dokumentasi** | Microsoft Word, Markdown |
+| **Dokumentasi** | Microsoft Word |
 | **Presentasi** | Canva |
-| **Manajemen Proyek** | Excel/Gantt Chart, GitHub |
-| **Pengembangan (rencana)** | PHP 8.x, Laravel, PostgreSQL 16, Ubuntu 24.04 |
+| **Manajemen Proyek** | GitHub |
 
 ---
 
