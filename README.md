@@ -79,12 +79,20 @@ File desain lokal tersedia di [`design/`](./design).
 
 ---
 
+## 🎨 Demo Proyek
+
+<a href="https://youtu.be/JS9f00hmzTw?si=JwC6MtJ_mmrialpL">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" width="40"/>
+</a>
+
+---
+
 ## ⚙️ Tools yang Digunakan
 
 | Kategori | Tools |
 |--------|-------|
 | **Desain** | Figma |
-| **Dokumentasi** | Microsoft Word |
+| **Dokumentasi** | Microsoft Word, Youtube |
 | **Presentasi** | Canva |
 | **Manajemen Proyek** | GitHub |
 
